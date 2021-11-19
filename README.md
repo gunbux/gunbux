@@ -9,6 +9,9 @@
 
 #### GitHub Statistics
 ![gunbux GitHub stats](https://github-readme-stats.vercel.app/api?username=gunbux&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunbux&layout=compact&theme=dracula)
+
+> Note: Language Breakdown is currently not accurate to my skillsets and proficiency in the different languages. I'm much more familiar with React/JS than other languages.
 #### Technical Skills and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
