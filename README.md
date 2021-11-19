@@ -1,15 +1,15 @@
-## Hi there, nice to meet you! 👋
+### Hi there, nice to meet you! 👋
 
-### I'm a Computer Science Student who's passionate about open-source software and software development
+#### I'm a Computer Science Student who's passionate about open-source software and software development
 
 - 🐱‍💻 I'm currently studying Computer Science at the National University of Singapore
 - 🛄 I'm open to internships/work opportunities
 - 🕹 I'm looking for opportunities to contribute to open source
 - 💻 Currently running a Windows/Arch dual boot
 
-### GitHub Statistics
+#### GitHub Statistics
 ![gunbux GitHub stats](https://github-readme-stats.vercel.app/api?username=gunbux&show_icons=true&theme=dracula&count_private=true)
-### Technical Skills and Tools
+#### Technical Skills and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
