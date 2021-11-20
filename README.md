@@ -1,5 +1,5 @@
 ### Hi there, nice to meet you! 👋
-
+![](https://komarev.com/ghpvc/?username=gunbux&style=flat-square)
 #### I'm a Computer Science Student who's passionate about open-source software and software development
 
 - 🐱‍💻 I'm currently studying Computer Science at the National University of Singapore
