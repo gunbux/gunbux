@@ -5,7 +5,7 @@
 - 🐱‍💻 I'm currently studying Computer Science at the National University of Singapore
 - 🛄 I'm open to internships/work opportunities
 - 🕹 I'm looking for opportunities to contribute to open source
-- 💻 Currently running a Windows/Arch dual boot
+- 💻 Currently running a Windows/NixOS dual boot!
 
 #### GitHub Statistics
 ![gunbux GitHub stats](https://github-readme-stats.vercel.app/api?username=gunbux&show_icons=true&theme=dracula&count_private=true)
@@ -14,16 +14,8 @@
 
 > Note: Language Breakdown is currently not accurate to my skillsets and proficiency in the different languages. I'm much more familiar with React/JS than other languages.
 -->
-#### Technical Skills and Tools
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt"TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+You can find out more about me at [chunyu.sh](https://chunyu.sh)!
 
 <!--
 **gunbux/gunbux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
