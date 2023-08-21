@@ -7,14 +7,6 @@
 - 🕹 I'm looking for opportunities to contribute to open source
 - 💻 Currently running a Windows/NixOS dual boot!
 
-#### GitHub Statistics
-![gunbux GitHub stats](https://github-readme-stats.vercel.app/api?username=gunbux&show_icons=true&theme=dracula&count_private=true)
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunbux&layout=compact&theme=dracula)
-
-> Note: Language Breakdown is currently not accurate to my skillsets and proficiency in the different languages. I'm much more familiar with React/JS than other languages.
--->
-
 You can find out more about me at [chunyu.sh](https://chunyu.sh)!
 
 <!--
