@@ -1,9 +1,8 @@
 ### Hi there, nice to meet you! 👋
 ![](https://komarev.com/ghpvc/?username=gunbux&style=flat-square)
-#### I'm a Computer Science Student who's passionate about open-source software and software development
-
-- 🐱‍💻 I'm currently studying Computer Science at the National University of Singapore
-- 🛄 I'm open to internships/work opportunities
+#### I'm a early-career linux/systems-focused software engineer
+- 🐱‍💻 I'm a Computer Science Graduate from the National University of Singapore
+- 🛄 I'm open to work opportunities
 - 🕹 I'm looking for opportunities to contribute to open source
 - 💻 Currently running a Windows/NixOS dual boot!
 
